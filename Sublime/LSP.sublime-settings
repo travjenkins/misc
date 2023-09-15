@@ -1,0 +1,10 @@
+// Settings in here override those in "LSP/LSP.sublime-settings"
+{
+	"on_save_task_timeout_ms": 3500,
+	"show_diagnostics_count_in_view_status": true,
+	"log_debug": true,
+	"show_diagnostics_panel_on_save": 1,
+	"lsp_code_actions_on_save": {
+		"source.fixAll.eslint": true,
+	},
+}

@@ -1,0 +1,33 @@
+{
+    "ignored_packages": [
+        "Vintage",
+    ],
+    "goto_anything_exclude_gitignore": true,
+    "theme": "gruvbox.sublime-theme",
+    "color_scheme": "Packages/gruvbox/gruvbox (Dark) (Soft).sublime-color-scheme",
+    "gruvbox_tabs_xs": true,
+    "gruvbox_tabs_font_size_14": true,
+    "gruvbox_sidebar_font_size_14": true,
+    "gruvbox_underline_modified_tabs": true,
+    "gruvbox_underline_active_tab": true,
+    "gruvbox_underline_active_tab_thick": true,
+    "font_size": 16,
+    "draw_white_space": "all",
+    // Integer. The number of spaces a tab is considered equal to
+    "tab_size": 4,
+    // Boolean, if true, spaces will be inserted up to the next tab stop when tab is pressed, rather than inserting a tab character
+    "translate_tabs_to_spaces": true,
+    // Boolean, if true (the default), tab_size and translate_tabs_to_spaces will be calculated automatically when loading a file
+    "detect_indentation": true,
+    // Boolean, If translate_tabs_to_spaces is true, use_tab_stops will make tab and backspace insert/delete up to the next tab stop
+    "use_tab_stops": true,
+    // If enabled, will highlight any line with a caret
+    "highlight_line": true,
+    "match_brackets_angle": true,
+    "shift_tab_unindent": true,
+    "auto_complete_cycle": true,
+    "auto_complete_preserve_order": "none",
+    "auto_complete_trailing_symbols": true,
+    "bold_folder_labels": true,
+    "console_max_history_lines": 100,
+}
