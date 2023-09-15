@@ -1,0 +1,14 @@
+{
+  "name": "sql_create_generator",
+  "version": "1.0.0",
+  "description": "Generates a sql create file with random names of tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "docker-names": "^1.2.1"
+  }
+}
