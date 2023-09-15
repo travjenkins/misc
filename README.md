@@ -1,2 +1,2 @@
-# helpful_node_scripts
-Used to store off random npm/node stuff I write to help myself out
+# Misc
+This is where I store random things I use to develop.
