@@ -24,8 +24,14 @@ alias gtcode='cd ~/code; c; ll'
 alias gtui='cd ~/code/ui; c; ll'
 alias gtflow='cd ~/code/flow; c; ll'
 
-# Go to project shortcuts
-alias opui='gtui; subl .'
+# Start shortcuts
+alias stui='gtui; nis;'
+alias stflow='gtflow; tilt up;'
+
+# Open shortcuts
+alias opsu='subl .'
+alias opui='gtui; opsu'
+alias opflow='gtflow; opsu'
 
 # Test db stuff
 alias gtdb='cd ~/dbs/'
